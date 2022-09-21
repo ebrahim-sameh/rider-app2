@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>824431079662-h4536hgkgvcecqpkaute7ojdj27chkgj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.824431079662-h4536hgkgvcecqpkaute7ojdj27chkgj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>824431079662-26g7dk97ogc8ed7a30ek6oi4ffvrmbmg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmZCtSI4Rw7udsjTMgLCiDKnmLn-Gm1JA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>824431079662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>today.wemoove.rider</string>
+	<key>PROJECT_ID</key>
+	<string>ridertoday</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ridertoday.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:824431079662:ios:46c5406a7a7dee5eb903ff</string>
+</dict>
+</plist>

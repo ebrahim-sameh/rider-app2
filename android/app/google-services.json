@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "824431079662",
+    "project_id": "ridertoday",
+    "storage_bucket": "ridertoday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824431079662:android:ca9e9dfd1ea6aa28b903ff",
+        "android_client_info": {
+          "package_name": "com.wemoove.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824431079662-plclbs2ou14hj5a04csv2u7kulp0vh1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemoove.driver",
+            "certificate_hash": "a179a4d4303d9d4e0a8a22ed596e32427e3d2901"
+          }
+        },
+        {
+          "client_id": "824431079662-7osbjunal81g0jv58fhagidsssa2fg2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD837aFr8zEaegCW-llBDHoAPTl6BvWug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824431079662-7osbjunal81g0jv58fhagidsssa2fg2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824431079662-fga5vf43dc3f8forh6kb8edu2bba7566.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wemoove.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824431079662:android:722360e1920e7732b903ff",
+        "android_client_info": {
+          "package_name": "com.wemoove.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824431079662-mjdk50e9phk8m8tf2qhgf4fgbsuqr3u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemoove.rider",
+            "certificate_hash": "a179a4d4303d9d4e0a8a22ed596e32427e3d2901"
+          }
+        },
+        {
+          "client_id": "824431079662-7osbjunal81g0jv58fhagidsssa2fg2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD837aFr8zEaegCW-llBDHoAPTl6BvWug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824431079662-7osbjunal81g0jv58fhagidsssa2fg2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824431079662-fga5vf43dc3f8forh6kb8edu2bba7566.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wemoove.rider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
