@@ -7,5 +7,5 @@ String wsUrl = serverUrl.replaceFirst("http", "ws");
 List<String>? nominatimCountries; // ISO 3166-1alpha2 codes
 
 // Google Places Configuration (Only for Google Map Provider)
-String placesApiKey = "AIzaSyCkbwNirV93ZLpffjPWKyh23n3mM7O1Urg";
+String placesApiKey = "AIzaSyD0FWVp2UCho97AOBQLmYxNjaXOIG6IQ04";
 String placesCountry = "en";

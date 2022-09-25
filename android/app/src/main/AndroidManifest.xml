@@ -22,7 +22,7 @@
     android:usesCleartextTraffic="true"
     android:label="WeMoove">
     <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyCkbwNirV93ZLpffjPWKyh23n3mM7O1Urg"/>
+               android:value="AIzaSyD0FWVp2UCho97AOBQLmYxNjaXOIG6IQ04"/>
     <meta-data android:name="com.facebook.sdk.ApplicationId"
                android:value="@string/facebook_app_id" />
     <activity
