@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>824431079662-namtc8v0gbiftl2p6gn8tnj5253o4d8v.apps.googleusercontent.com</string>
+	<string>824431079662-h4536hgkgvcecqpkaute7ojdj27chkgj.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.824431079662-namtc8v0gbiftl2p6gn8tnj5253o4d8v</string>
+	<string>com.googleusercontent.apps.824431079662-h4536hgkgvcecqpkaute7ojdj27chkgj</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>824431079662-3kpg69jlqqst89v4i1urfocbk0gqgh72.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>today.wemoove.driver</string>
+	<string>today.wemoove.rider</string>
 	<key>PROJECT_ID</key>
 	<string>ridertoday</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:824431079662:ios:8a74cda4185eb742b903ff</string>
+	<string>1:824431079662:ios:46c5406a7a7dee5eb903ff</string>
 </dict>
 </plist>
